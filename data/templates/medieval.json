@@ -1,5 +1,9 @@
 {
-    "type": "main-list-block",
+    "type": "document-block",
+    "metadata": {
+      "name": "Medieval",
+      "filename": "/templates/medieval.json"
+    },
     "children": [
       {
         "type": "image-block",
@@ -53,7 +57,7 @@
                     "children": [
                       {
                         "type": "standoff-editor-block",
-                        "text": ""
+                        "text": "Put text here ..."
                       }
                     ]
                   }
