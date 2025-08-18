@@ -21,7 +21,7 @@
         ],
         "children": [
           {
-            "type": "grid-block",
+            "type": "container-block",
             "blockProperties": [
               {
                 "type": "block/size",
@@ -41,27 +41,8 @@
             ],
             "children": [
               {
-                "type": "grid-row-block",
-                "children": [
-                  {
-                    "type": "grid-cell-block",
-                    "blockProperties": [
-                      {
-                        "type": "block/size",
-                        "metadata": {
-                          "position": "relative",
-                          "width": "100%"
-                        }
-                      }
-                    ],
-                    "children": [
-                      {
-                        "type": "standoff-editor-block",
-                        "text": "Put text here ..."
-                      }
-                    ]
-                  }
-                ]
+                "type": "standoff-editor-block",
+                "text": "Put text here 123 ..."
               }
             ]
           }
