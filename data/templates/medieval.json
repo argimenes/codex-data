@@ -27,14 +27,14 @@
                 "type": "block/size",
                 "metadata": {
                   "width": 560,
-                  "height": 820
+                  "height": 800
                 }
               },
               {
                 "type": "block/position",
                 "metadata": {
-                  "x": 195,
-                  "y": 190,
+                  "x": 190,
+                  "y": 210,
                   "position": "absolute"
                 }
               }
@@ -42,7 +42,7 @@
             "children": [
               {
                 "type": "standoff-editor-block",
-                "text": "Put text here 123 ..."
+                "text": "Put text here ..."
               }
             ]
           }
